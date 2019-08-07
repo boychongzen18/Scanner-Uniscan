@@ -1,0 +1,26 @@
+
+=========================================================
+Special To Admin Group WA PhreakersTeamHFL & All Members 
+=========================================================
+
+Tutorial Install Uniscan & Eksekusi Via Terminal / Cmd Windows Only
+
+
+
+Tested : Windows Seven
+
+1. Download & Install Perl : https://www.perl.org/get.html
+
+2. Download Uniscan : https://sourceforge.net/projects/uniscan
+
+3. Extract Uniscan , Copy Folder Uniscan to New Folder
+
+4. Buka Cmd Lihat Cara Eksekusinya di bawah :
+
+5. Eksekusi Terminal / Cmd , cd C:\ location New folder
+
+6. Eksekusi Terminal / Cmd , cd uniscan
+
+7. Eksekusi Terminal Bantuan / HELP ==> perl uniscan.pl --help
+
+8. Eksekusi Terminal / Cmd, perl uniscan.pl -u https://www.Target.com -qweds
