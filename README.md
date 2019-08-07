@@ -9,6 +9,7 @@ Special To Admin Group WA PhreakersTeamHFL & All Members
 # Tested : Windows Seven
 
 1. Download & Install Perl Via Terminal : choco install unrar,,choco install perl
+
    Download & Install Perl Via Website  : https://www.perl.org/get.html   
 
 2. Download Uniscan Via Github : git clone https://github.com/boychongzen18/Scanner-Uniscan
