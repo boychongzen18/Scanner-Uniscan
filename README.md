@@ -1,4 +1,6 @@
-# Tutorial Install Uniscan & Eksekusi Via Terminal / Cmd Windows Only
+# Tutorial Download & Install Uniscan
+
+# Eksekusi Via Terminal / Cmd Windows Only
 
 # Author : Boychongzen aka Xroot
 
