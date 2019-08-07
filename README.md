@@ -4,7 +4,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Tested : Windows Seven
+# Tested : Windows Seven & Termux
 
 1. Download & Install Perl Via Terminal : choco install unrar,,choco install perl
 
@@ -27,13 +27,13 @@
 7. Eksekusi Terminal Bantuan / HELP ==> perl uniscan.pl --help
 
 8. Eksekusi Terminal / Cmd, perl uniscan.pl -u https://www.Target.com -qweds
-
-
+========================================================================================
 # Tampilan edit uniscan.conf di Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/Scanner-Uniscan/master/uniscan.jpg)
 # Tampilan Eksekusi Website Target Via Terminal di Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/Scanner-Uniscan/master/uniscan1.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/Scanner-Uniscan/master/uniscan2.jpg)
+========================================================================================
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
