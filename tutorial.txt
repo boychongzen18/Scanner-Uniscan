@@ -5,9 +5,9 @@ Special To Admin Group WA PhreakersTeamHFL & All Members
 
 Tutorial Install Uniscan & Eksekusi Via Terminal / Cmd Windows Only
 
+Author : Boychongzen aka Xroot
 
-
-Tested : Windows Seven
+Tested : Windows Seven & Termux
 
 1. Download & Install Perl : https://www.perl.org/get.html
 
@@ -24,3 +24,21 @@ Tested : Windows Seven
 7. Eksekusi Terminal Bantuan / HELP ==> perl uniscan.pl --help
 
 8. Eksekusi Terminal / Cmd, perl uniscan.pl -u https://www.Target.com -qweds
+
+============================================================
+
+Install Uniscan & Eksekusi Via Terminal Termux
+
+pkg update && apt-get upgrade -y
+
+pkg install git nano unrar perl libmoose-perl libwww-perl -y
+
+git clone https://github.com/boychongzen18/Scanner-Uniscan
+
+cd Scanner-Uniscan
+
+cd unrar x uniscan.rar
+
+perl uniscan.pl --help
+
+perl uniscan.pl -u https://www.target.com -qweds
