@@ -56,7 +56,7 @@ perl uniscan.pl -u https://www.target.com -qweds
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
-Link Tutorial : 
+Link Tutorial : https://youtu.be/lZ4cEriwgIY
 
 My Website    : https://hackingforlive.wordpress.com
 
